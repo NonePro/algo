@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/none/study/algo/Sort/SortTestHelper.h
+ctime
+-
+assert.h
+-
+stdlib.h
+-
+
+/home/none/study/algo/Sort/Student.h
+system_error
+-
+
+/home/none/study/algo/Sort/main.cpp
+iostream
+-
+Student.h
+/home/none/study/algo/Sort/Student.h
+SortTestHelper.h
+/home/none/study/algo/Sort/SortTestHelper.h
+

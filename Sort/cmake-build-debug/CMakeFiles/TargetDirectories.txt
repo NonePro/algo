@@ -1,0 +1,3 @@
+/home/none/study/algo/Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/none/study/algo/Sort/cmake-build-debug/CMakeFiles/SelectionSort.dir
+/home/none/study/algo/Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
